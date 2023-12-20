@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio!",
+      "autoria": "Kami",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Que bom que você veio!",
+      "autoria": "Kami",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 3,
+      "conteudo": "Obrigada pela rosa!",
+      "autoria": "Kami",
+      "modelo": "modelo2"
+    }
+  ]
+}
